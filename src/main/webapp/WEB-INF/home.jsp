@@ -8,7 +8,7 @@
 <style>  
     body  {
   background-image: url("11.png");
-  background-color: #cccccc;
+  
 }
 h3{
   font-family: Calibri; 
