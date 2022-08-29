@@ -6,6 +6,10 @@
 <meta charset="ISO-8859-1">
 <title>Home page</title>
 <style>  
+    body  {
+  background-image: url("11.png");
+  background-color: #cccccc;
+}
 h3{
   font-family: Calibri; 
   font-size: 25pt;         
